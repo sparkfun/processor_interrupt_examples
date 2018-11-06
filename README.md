@@ -1,6 +1,8 @@
 SparkFun <PRODUCT NAME>
 ========================================
 
+Repository for examples related to the [Processor Interrupts Tutorial](https://learn.sparkfun.com/tutorials/processor-interrupts-with-arduino)
+
 Repository Contents
 -------------------
 
