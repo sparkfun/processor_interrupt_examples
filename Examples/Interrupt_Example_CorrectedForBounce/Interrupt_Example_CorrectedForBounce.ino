@@ -18,7 +18,8 @@ unsigned long last_button_time = 0;
 void setup() {                
   //enable interrupt 0 which uses pin 2
   //jump to the increment function on falling edge
-  attachInterrupt(0, increment, FALLING);
+  pinMode(ledPin, OUTPUT);
+  attachInterrupt(0, increment, RISING);
   Serial.begin(9600);  //turn on serial communication
 }
 
