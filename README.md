@@ -1,7 +1,9 @@
-SparkFun <PRODUCT NAME>
+Processor Interrupts with Arduino
 ========================================
 
 Repository for examples related to the [Processor Interrupts Tutorial](https://learn.sparkfun.com/tutorials/processor-interrupts-with-arduino)
+
+[![Processor Interrupts with Arduino - Button LED Example](https://cdn.sparkfun.com/assets/learn_tutorials/3/1/6/LED_Demo_1.gif)](https://learn.sparkfun.com/tutorials/processor-interrupts-with-arduino)
 
 Repository Contents
 -------------------
